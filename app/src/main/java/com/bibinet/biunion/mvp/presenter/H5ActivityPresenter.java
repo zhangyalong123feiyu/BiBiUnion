@@ -1,0 +1,53 @@
+package com.bibinet.biunion.mvp.presenter;
+
+import android.util.Log;
+
+import com.bibinet.biunion.mvp.model.H5ActivityModel;
+import com.bibinet.biunion.mvp.view.H5ActivityView;
+import com.bibinet.biunion.project.builder.MyCallBack;
+
+/**
+ * Created by bibinet on 2017-6-24.
+ */
+
+public class H5ActivityPresenter {
+    private H5ActivityModel h5ActivityModel;
+    private H5ActivityView h5ActivityView;
+
+    public H5ActivityPresenter(H5ActivityView h5ActivityView) {
+        this.h5ActivityView = h5ActivityView;
+        this.h5ActivityModel=new H5ActivityModel();
+    }
+    public void collctionData(int userId,String projectId,int type){
+        h5ActivityModel.collctionData(userId, projectId, type, new MyCallBack(){
+            @Override
+            public void onSuccess(String s) {
+                super.onSuccess(s);
+                Log.e("_+", s+"-=");
+                h5ActivityView.onCollectoinSucess();
+            }
+
+            @Override
+            public void onError(Throwable throwable, boolean b) {
+                super.onError(throwable, b);
+                Log.e("_+", throwable.getMessage()+"-=");
+                h5ActivityView.onCollectionFailed(throwable.getMessage());
+            }
+        });
+    }
+    public void cancelFoucs(int userId,String relatedCode){
+        h5ActivityModel.cancelFoucs(userId,relatedCode,new MyCallBack(){
+            @Override
+            public void onSuccess(String s) {
+                super.onSuccess(s);
+                h5ActivityView.onCancelFoucsSucess();
+            }
+
+            @Override
+            public void onError(Throwable throwable, boolean b) {
+                super.onError(throwable, b);
+                h5ActivityView.onCancelFoucsFailed();
+            }
+        });
+    }
+}

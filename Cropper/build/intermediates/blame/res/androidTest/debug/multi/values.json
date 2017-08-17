@@ -1,0 +1,678 @@
+[
+    {
+        "outputFile": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 52,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 50,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 50,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 51,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 51,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 58,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 58,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 58,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 58,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 47,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 47,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 43,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 43,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 41,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 41,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 52,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 52,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 49,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 49,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 45,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 45,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 24,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 24,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1314,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1924,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2122,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2122,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2314,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2846
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 52,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 50,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 50,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 51,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 51,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 58,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 58,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 58,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 58,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 47,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 47,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 43,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 43,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 41,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 41,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 52,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 52,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 49,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 49,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 45,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 45,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 24,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 24,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1011,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1919
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1314,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1924,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1924,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2122,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2122,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2314,
+                        "endLine": 52,
+                        "endColumn": 12,
+                        "endOffset": 2846
+                    }
+                }
+            }
+        ]
+    }
+]

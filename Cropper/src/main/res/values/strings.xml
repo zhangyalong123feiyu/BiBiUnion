@@ -1,0 +1,7 @@
+<?xml version="1.0"?><resources>
+    <string name="crop__cancel">取消</string>
+    <string name="crop__done">确定</string>
+    <string name="crop__pick_error">没有源图片可用</string>
+    <string name="crop__saving">保存图片中...</string>
+    <string name="crop__wait">请稍等...</string>
+</resources>

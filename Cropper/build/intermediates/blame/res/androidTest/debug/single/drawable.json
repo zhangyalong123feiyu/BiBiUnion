@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__texture.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\BiBiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__texture.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "D:\\Androidstudio_WorkSpace\\BiUnion\\Cropper\\build\\intermediates\\bundles\\debug\\res\\drawable\\crop__selectable_background.xml"
+    }
+]

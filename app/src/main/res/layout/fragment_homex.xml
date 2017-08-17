@@ -1,0 +1,163 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.bibinet.biunion.project.ui.fragment.Fragment_Homex">
+
+    <View
+        android:id="@+id/fake_status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="#F9C432"/>
+    <include layout="@layout/item_homesearch" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:background="#F4F4F4"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_marginRight="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/projectInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:text="@string/projectInfo"
+                android:textColor="#F57300"
+                android:textSize="13sp" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="11dp"
+                android:layout_height="7dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="7dp"
+                android:src="@drawable/select_home_sping_icon" />
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            >
+            <RadioGroup
+                android:id="@+id/fra_home_radio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+
+                <RadioButton
+                    android:id="@+id/projectNameOne"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:button="@null"
+                    android:checked="true"
+                    android:gravity="center"
+                    android:text="@string/projecNameOne"
+                    android:textColor="@drawable/radiotext_selector"
+                    android:textSize="11sp" />
+
+                <RadioButton
+                    android:id="@+id/projectNameTwo"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.2"
+                    android:button="@null"
+                    android:text="@string/projecNameTwo"
+                    android:gravity="center"
+                    android:textColor="@drawable/radiotext_selector"
+                    android:textSize="11sp"
+                    />
+                <RadioButton
+                    android:id="@+id/projectNameThree"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:button="@null"
+                    android:text="@string/projecNameThree"
+                    android:gravity="center"
+                    android:textColor="@drawable/radiotext_selector"
+                    android:textSize="11sp"
+                    />
+            </RadioGroup>
+            <LinearLayout
+                android:layout_alignParentBottom="true"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:orientation="horizontal">
+                <View
+                    android:id="@+id/projectNameOneBottomLine"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="#F57300"
+                    />
+                <View
+                    android:id="@+id/projectNameTwoBottomLine"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.2"
+                    android:background="#F57300"
+                    android:visibility="invisible"
+                    />
+                <View
+                    android:id="@+id/projectNameThreeBottomLine"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="#F57300"
+                    android:visibility="invisible"
+                    />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="0.3"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/moreProject"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:padding="7dp"
+                android:layout_centerInParent="true"
+                android:src="@mipmap/more"
+                />
+        </RelativeLayout>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#e1e1e1" />
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/fra_home_swipe_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/fra_home_recycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="#F4F4F4" />
+            </LinearLayout>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>
+

@@ -1,0 +1,15 @@
+package com.bibinet.biunion.mvp.view;
+
+
+import com.bibinet.biunion.project.bean.LoginResultBean;
+
+import java.util.List;
+
+/**
+ * Created by bibinet on 2017-6-12.
+ */
+
+public interface LoginView{
+    void onLoadSucess(String loginString);
+    void onLoadFaield(String msg);
+}
